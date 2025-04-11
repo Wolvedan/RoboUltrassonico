@@ -1,0 +1,11 @@
+# Palavras-chave da biblioteca RoboUltrassonico
+
+# Classe
+RoboUltrassonico	KEYWORD1
+
+# Métodos públicos
+frente	KEYWORD2
+re	KEYWORD2
+vireDireita	KEYWORD2
+vireEsquerda	KEYWORD2
+lerSensor	KEYWORD2
